@@ -1,8 +1,8 @@
-var sunconueSound = new Audio("sounds/sunconure.mp3");
-var airbusSound = new Audio("sounds/airbus.mp3");
-let babylaughSound = new Audio("sounds/babylaugh.mp3");
-let gunfightSound = new Audio("sounds/gunfight.mp3");
-let babycrySound = new Audio("sounds/babycry.mp3");
+var sunconueSound = new Audio("sunconure.mp3");
+var airbusSound = new Audio("airbus.mp3");
+let babylaughSound = new Audio("babylaugh.mp3");
+let gunfightSound = new Audio("gunfight.mp3");
+let babycrySound = new Audio("babycry.mp3");
 
 let sounds = [
   "sunconueSound",
